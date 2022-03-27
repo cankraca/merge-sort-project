@@ -16,4 +16,5 @@ merge-sort-project www.patika.dev
   [8,11,12,16,21,22]
   
   
-2) 2^x = n --> x = logn --> O(nlogn)
+2) Big-O gösterimini yazınız.
+   2^x = n --> x = logn --> O(nlogn)
